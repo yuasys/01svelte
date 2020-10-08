@@ -9,8 +9,8 @@
 
 <style>
 	button {
-	  width: 110px;
-	  background: #ff3e00;
+	  width: 160px;
+	  background: #915911;
 	  color: white;
 	  border: none;
 	  padding: 8px 12px;
